@@ -1,0 +1,12 @@
+C:\Users\Alumno\source\repos\Lista_MG\Lista_MG\bin\Debug\Lista_MG.exe.config
+C:\Users\Alumno\source\repos\Lista_MG\Lista_MG\bin\Debug\Lista_MG.exe
+C:\Users\Alumno\source\repos\Lista_MG\Lista_MG\bin\Debug\Lista_MG.pdb
+C:\Users\Alumno\source\repos\Lista_MG\Lista_MG\bin\Debug\Lista_MG.xml
+C:\Users\Alumno\source\repos\Lista_MG\Lista_MG\obj\Debug\Lista_MG.vbprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Lista_MG\Lista_MG\obj\Debug\Lista_MG.Lista.resources
+C:\Users\Alumno\source\repos\Lista_MG\Lista_MG\obj\Debug\Lista_MG.Resources.resources
+C:\Users\Alumno\source\repos\Lista_MG\Lista_MG\obj\Debug\Lista_MG.vbproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Lista_MG\Lista_MG\obj\Debug\Lista_MG.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Lista_MG\Lista_MG\obj\Debug\Lista_MG.exe
+C:\Users\Alumno\source\repos\Lista_MG\Lista_MG\obj\Debug\Lista_MG.xml
+C:\Users\Alumno\source\repos\Lista_MG\Lista_MG\obj\Debug\Lista_MG.pdb
